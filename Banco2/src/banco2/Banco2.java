@@ -15,7 +15,7 @@ public class Banco2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("Hola personicas");
+        System.out.print("Cambios Alex");
     }
     
 }
