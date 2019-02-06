@@ -7,7 +7,7 @@ package banco2;
 
 /**
  *
- * @author usuario
+ * @author Javier
  */
 public class Banco2 {
 
@@ -15,7 +15,7 @@ public class Banco2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.print("Hola personicas");
     }
     
 }
